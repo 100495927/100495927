@@ -45,6 +45,7 @@ I am highly passionate about Data Science, Machine Learning, and Cybersecurity, 
 * **Bachelor's Thesis (TFG):** Intelligent system for tracking the global LLM ecosystem using **ETL pipelines**, **RAG**, and **NLP** concepts. *(Python, Docker, MongoDB)*
 * **Predictive Modeling:** Machine learning and advanced clustering algorithms developed to uncover data patterns. *(Python, Scikit-Learn)*
 * **Network Messaging Platform:** Low-level synchronous communications app with core encryption fundamentals. *(C, TCP/IP Sockets)*
+* **Newsradar:** News monitoring application that manages alerts and notifies users when new articles matching their topics of interest are published. *(Python, APIs, RSS, React, Elasticsearch)*
 
 ---
 
